@@ -56,4 +56,4 @@ This project documents the end-to-end deployment and configuration of a **Window
 * **Active Directory Integration:** Joining this Windows 11 endpoint to an AD DS domain controller.
 * **Group Policy Testing:** Applying enterprise GPO rules, security baselines, and restriction policies.
 * **Network Testing:** Simulating static IP addressing, VLAN connectivity, and remote troubleshooting (RDP/PowerShell Remoting).
-* 
+
